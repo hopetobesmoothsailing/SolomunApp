@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SolomunApp",
+    "slug": "SolomunApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SolomunApp"
+}
